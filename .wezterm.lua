@@ -1,0 +1,1 @@
+C:/Users/an4cy/.wezterm.lua
