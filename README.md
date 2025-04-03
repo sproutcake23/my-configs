@@ -1,2 +1,1 @@
-# This reposotory contains my configurations for the applications that i use
-
+# This repository contains the configuration files for all the applications i use
